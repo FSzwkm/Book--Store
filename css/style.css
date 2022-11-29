@@ -24,7 +24,7 @@
     -o-border-radius: 50px;
 }
 section {
-    background-image: url(images/background.jpg);
+    background-image: url(/images/background.jpg);
     background-size: cover;
     height: 100vh;
     padding: 10px 20px;
